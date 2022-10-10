@@ -1,5 +1,5 @@
 # anamnesis-project
-Application for commercial administration
+Application for creating questions
 
 ## Folders
 
